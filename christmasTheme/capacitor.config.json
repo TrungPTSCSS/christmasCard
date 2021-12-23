@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "christmasTheme",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "christmasTheme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
